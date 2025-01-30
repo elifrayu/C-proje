@@ -1,0 +1,4 @@
+Ad: Ahmet, Soyad: Yılmaz, Maaş: 18000.00, Giriş Yılı: 2010
+Ad: Ayşe, Soyad: Kara, Maaş: 5500.00, Giriş Yılı: 2016
+Ad: Fatma, Soyad: Ak, Maaş: 6500.00, Giriş Yılı: 2017
+Ad: Mehmet, Soyad: Demir, Maaş: 6000.00, Giriş Yılı: 2018

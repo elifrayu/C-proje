@@ -1,0 +1,12 @@
+Birim Adı: İnsan Kaynakları
+Birim Kodu: 101
+
+Birim Adı: Muhasebe
+Birim Kodu: 102
+
+Birim Adı: IT
+Birim Kodu: 103
+
+Birim Adı: İK
+Birim Kodu: 104
+
